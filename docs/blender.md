@@ -17,3 +17,12 @@
 1. Booleans(Substraktieve und Intersect) zuweisen
         ![Halbierte Box](img/halbierte_box.png)
 1. Substrektieve Box ausblenden
+
+# Ecken abrunden
+1. In den Edit Mode gehen
+1. Bevel-Funktion auswählen
+1. Oben links modus Edge mode auswählen
+1. Ecken auswählen(Shift+linksklick)
+1. Maus ziehen bis gewünschte fläche schräg ist
+1. Mausrad drehen um abzurunden
+        ![Abgeruntete Box](img/Abgerundeteecke.png)
