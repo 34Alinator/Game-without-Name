@@ -1,7 +1,9 @@
 # Twitch
    * (Name)
-   * Erstmal nicht regelmäßig
+   * (Link)
+   * Erstmal nicht nichts
 
 # Youtube
-   * (Name)
-   * Erstmal nicht regelmäßig
+   * 34Alinator Studio
+   * (Link)
+   * Erstmal nicht nichts
