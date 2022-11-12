@@ -5,4 +5,4 @@ Heute habe ich die Website erstellt das Home, den Blog, Changelog, Twitch und Yo
 Heute habe ich das Google Konto erstellt. Kurz ich fang "Bald" (Ich muss noch C++ lernen) mit dem Streamen an. Das Konto heißt übrigens 34Alinator Studio. Finde ich eigentlich ganz gut. Ansonsten wars das erstmal.
 
 # Blog vom 12.11.2022
-Ich habe jetzt angefangen C++ zu lernen. Von ganz vorne fang ich nicht an aber trotzdem sehr weit am Anfang. Die C++ Tipps habe ich beim lernen gemacht. ich muss mal gucken was ich jetzt mach. 
+Ich habe jetzt angefangen C++ zu lernen. Von ganz vorne fang ich nicht an aber trotzdem sehr weit am Anfang. Die C++ Tipps habe ich beim lernen gemacht. ich muss mal gucken was ich jetzt mache.
