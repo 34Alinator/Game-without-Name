@@ -1,0 +1,8 @@
+# Blog vom 10.11.2022
+Heute habe ich die Website erstellt das Home, den Blog, Changelog, Twitch und Youtube, Blender, C++, Unreal Engine und Tests erstellt. Urspünglich war die Website nur für mich gedacht sodass ich mit die Blender, C++ und Unreal Engine Sachen aufschreiben kann. Aber noch während ich die Website erstellt habe ist das draus geworden, eine ganze game-community website. Momentan lerne ich noch mit Blender umzugehen aber in den nächsten Tagen werde ich wahrscheinlich mit C++ anfangen, da ich die Basic Basics drauf hab(Siehe Blender Substraktive Box und Objekt halbieren). Bei C++ werde ich dann die ganzen Unreal Engine C++ Basics aufschreiben. Den Twitch und Youtube Kanal habe ich noch nicht erstellt. Bis ich anfange das Spiel zu programmieren wird es aber nur JustChatting auf Twitch geben.  Am Anfang war es einfach auf dem PC von mir danach wollte ich irgendeinen Server bilig mieten aber jetzt habe ich mich für GitHub Pages entschieden. Hier muss ich nichts zahlen und es gibt Kommentare die ich nicht programmieren muss. Morgen setze ich dann den Twitch und Youtube Kanal auf.
+
+# Blog vom 11.11.2022
+Heute habe ich das Google Konto erstellt. Kurz ich fang "Bald" (Ich muss noch C++ lernen) mit dem Streamen an. Das Konto heißt übrigens 34Alinator Studio. Finde ich eigentlich ganz gut. Ansonsten wars das erstmal.
+
+# Blog vom 12.11.2022
+Ich habe jetzt angefangen C++ zu lernen. Von ganz vorne fang ich nicht an aber trotzdem sehr weit am Anfang. Die C++ Tipps habe ich beim lernen gemacht. ich muss mal gucken was ich jetzt mache. Das update von der github website ist immer noch nicht einfach werde ich mich aber noch dran gewöhnen müssen.
